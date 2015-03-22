@@ -14,6 +14,10 @@
     "Pick"
   ],
   "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "test.js"
+  ],
   "devDependencies": {
     "underscore": "~1.6.0"
   }
