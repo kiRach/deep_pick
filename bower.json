@@ -1,0 +1,20 @@
+{
+  "name": "deep_pick",
+  "version": "0.0.8",
+  "homepage": "https://github.com/mohsen1/deep_pick",
+  "authors": [
+    "Mohsen Azimi"
+  ],
+  "description": "Underscore Deep Pick Plugin",
+  "main": "index.js",
+  "keywords": [
+    "Underscore",
+    "LoDash",
+    "Deep",
+    "Pick"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "underscore": "~1.6.0"
+  }
+}
